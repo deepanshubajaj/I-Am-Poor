@@ -29,6 +29,8 @@ To run this project locally:
 
 <p align="center">
   <img src="ProjectOutputs/Snapshots/appLook.jpg" alt="App Look" />
+</p>
+<p align="center">
   *App snapshot in the simulator.*
 </p>
 
