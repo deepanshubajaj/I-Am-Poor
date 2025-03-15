@@ -29,20 +29,20 @@ To run this project locally:
 
 <p align="center">
   <img src="ProjectOutputs/Snapshots/appLook.jpg" alt="App Look" />
+  *App snapshot in the simulator.*
 </p>
-*App snapshot in the simulator.*
 
 ## Screenshots :
 
 <p align="center">
   <img src="ProjectOutputs/Snapshots/landscapeViewSS.jpg" alt="Splash Screen 1" />
+  *Splash screen displayed upon app launch in Landscape mode.*
 </p>
-*Splash screen displayed upon app launch in Landscape mode.*
 
 <p align="center">
   <img src="ProjectOutputs/Snapshots/landscapeViewApp.jpg" alt="App Screenshot 1" />
+  *Screenshot of the main screen showing the "I am Poor" text and associated image in Landscape mode.*
 </p>
-*Screenshot of the main screen showing the "I am Poor" text and associated image in Landscape mode.*
 
 <p align="center">
   <img src="ProjectOutputs/Snapshots/portraitViewSS.jpg" alt="Splash Screen 2" width="300" />
@@ -50,22 +50,22 @@ To run this project locally:
 </p>
 
 <p align="center">
-  *Splash screen displayed upon app launch in Portrait mode.* &nbsp;&nbsp; *Screenshot of the main screen showing the "I am Poor" text and associated image in Portrait mode.*
+  *Splash screen displayed upon app launch in Portrait mode.* &nbsp;&nbsp; *Screenshot of the main screen in Portrait mode.*
 </p>
 
 ## App Icon :
 
 <p align="center">
   <img src="ProjectOutputs/Snapshots/appIcon.png" alt="App Icon" />
+  *The app icon represents the theme of the app.*
 </p>
-*The app icon represents the theme of the app.*
 
 ## Video Demo :
 
 Here’s a short video showcasing the app's functionality:
 
 <p align="center">
-  <img src="ProjectOutputs/Snapshots/workingVideo.gif" alt="Working App" />
+  <img src="ProjectOutputs/WorkingVideo/workingVideo.gif" alt="Working App" />
 </p>
 
 [Watch Working Video](ProjectOutputs/WorkingVideo/workingVideo.mov)
