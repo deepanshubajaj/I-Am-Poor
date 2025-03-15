@@ -57,7 +57,8 @@ To run this project locally:
 
 <p align="center">
   <img src="ProjectOutputs/Snapshots/appIcon.png" alt="App Icon" />
-  
+</p>
+<p align="center">
   *The app icon represents the theme of the app.*
 </p>
 
